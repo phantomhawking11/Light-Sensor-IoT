@@ -1,0 +1,1 @@
+C:\Users\Abdul\Downloads\samples-develop\samples-develop\Blinky\CS\Blinky.csproj;arm
